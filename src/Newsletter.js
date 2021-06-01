@@ -21,10 +21,10 @@ const Newsletter = (props) => {
 
         }
 
-        const sendSubmit = async (event) => {
+        const sendSubmit = (event) => {
             event.preventDefault()
             let list = `${replace}&MERGE0=${form.email}`
-            await jsonp(list, { param: "c" }, (err, data) => {
+            jsonp(list, { param: "c" }, (err, data) => {
                 if (data.result === "success") {
                     setStateMailchimp(props.info.messageSucces)
                 } else {
@@ -44,10 +44,10 @@ const Newsletter = (props) => {
                 <p className={props.info.messageClassName ? props.info.messageClassName : 'message-class'}>{stateMailchimp != null ? stateMailchimp : ""}</p>
             </div>
         )
-    }else {
+    } else {
         return (
             <div>
-               Necesitamos la lista de mailchimp para poder hacer todo este proceso
+                Necesitamos la lista de mailchimp para poder hacer todo este proceso
             </div>
         )
     }

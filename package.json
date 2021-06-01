@@ -1,6 +1,6 @@
 {
   "name": "send-suscriptor-mailchimp-react",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Esta es una libreria para enviar suscriptores a tu lista de mailchimp sin necesidad de usar un servidor",
   "main": "./lib/Newsletter.js",
   "license": "MIT",
