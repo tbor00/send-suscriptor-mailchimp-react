@@ -98,6 +98,10 @@ Once you know this. That's it!
 
 [Puedes ver el código fuente desde aquí](https://github.com/tbor00/send-suscriptor-mailchimp-react)
 
+[Click to view in live / Click para verlo en vivo](https://send-suscriptor-mailchimp-react.netlify.app/)
+
+[Puedes ver un ejemplo desde aquí](https://github.com/tbor00/example-react-mailchimp)
+
 
 ### Puedes contrubuir y recomendar este paquete!
 ### You can contribute and recommend this package!
