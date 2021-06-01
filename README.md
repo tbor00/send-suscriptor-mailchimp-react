@@ -33,5 +33,9 @@ export default App
 ```
 
 ### Links de interes
-[Puedes descargar el paquete npm desde aquí]("https://www.npmjs.com/package/send-suscriptor-mailchimp-react")
-[Puedes ver el código fuente desde aquí]("https://github.com/tbor00/send-suscriptor-mailchimp-react")
+[Puedes descargar el paquete npm desde aquí](https://www.npmjs.com/package/send-suscriptor-mailchimp-react)
+
+[Puedes ver el código fuente desde aquí](https://github.com/tbor00/send-suscriptor-mailchimp-react)
+
+
+### Puedes contrubuir y recomendar este paquete!
